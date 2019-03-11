@@ -1,0 +1,11 @@
+C:\Users\Администратор\source\repos\birthdayReminder\birthdayReminder\bin\Debug\birthdayReminder.exe
+C:\Users\Администратор\source\repos\birthdayReminder\birthdayReminder\bin\Debug\birthdayReminder.pdb
+C:\Users\Администратор\source\repos\birthdayReminder\birthdayReminder\obj\Debug\birthdayReminder.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\source\repos\birthdayReminder\birthdayReminder\obj\Debug\birthdayReminder.Properties.Resources.resources
+C:\Users\Администратор\source\repos\birthdayReminder\birthdayReminder\obj\Debug\birthdayReminder.csproj.GenerateResource.Cache
+C:\Users\Администратор\source\repos\birthdayReminder\birthdayReminder\obj\Debug\birthdayReminder.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\birthdayReminder\birthdayReminder\obj\Debug\birthdayReminder.exe
+C:\Users\Администратор\source\repos\birthdayReminder\birthdayReminder\obj\Debug\birthdayReminder.pdb
+C:\Users\Администратор\source\repos\birthdayReminder\birthdayReminder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Администратор\source\repos\birthdayReminder\birthdayReminder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Администратор\source\repos\birthdayReminder\birthdayReminder\obj\Debug\birthdayReminder.Form1.resources
